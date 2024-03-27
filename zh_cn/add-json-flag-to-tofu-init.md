@@ -12,7 +12,7 @@
 ## 现状
 
 如下图所示，在init command中，错误信息通过 Ui 上的 Error 或 Output 方法进行输出
-![code1](assest/add-json-flag-to-tofu-init/code1.png)
+![code1](/assest/add-json-flag-to-tofu-init/code1.png)
 
 而 diagnostic 通过 meta 上定义的 showDiagnostics 方法输出
-![code2](assest/add-json-flag-to-tofu-init/code2.png)
+![code2](/assest/add-json-flag-to-tofu-init/code2.png)
